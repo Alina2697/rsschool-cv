@@ -67,3 +67,14 @@ function finalGrade (exam, projects) {
 ```
 
 ***
+
+### Courses and Education:
+
+* **2014-2019:** Belarusian State University *(Faculty of Social Communication (Linguist-translator))*
+* JavaScript on [Udemy](https://www.udemy.com/course/intensive-js/) ***(Currently in progress)***
+* HTML and CSS: 
+    + on [Udemy](https://www.udemy.com/course/html-css-from-zero/) ***(Completed)***
+    + HTML on [Code Basics](https://ru.code-basics.com/languages/html) ***(Completed)***
+    + CSS on [Code Basics](https://ru.code-basics.com/languages/css) ***(Completed)***
+
+***
