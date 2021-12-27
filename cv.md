@@ -86,3 +86,10 @@ function finalGrade (exam, projects) {
 **GitHub:** [code](https://github.com/Alina2697/rsschool-cv/tree/gh-pages)
 
 ***
+
+### Languages: 
+
+* **English** - Upper-Intermediate/Advanced (in obedience to [EF SET](https://www.efset.org/quick-check/) test)
+* **German** - Intermediate
+* **Russian** - native 
+* **Belarusian** - native
