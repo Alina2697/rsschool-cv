@@ -78,3 +78,11 @@ function finalGrade (exam, projects) {
     + CSS on [Code Basics](https://ru.code-basics.com/languages/css) ***(Completed)***
 
 ***
+
+### Projects:
+
+**Project Name:** CV#1. Markdown & Git
+
+**GitHub:** [code](https://github.com/Alina2697/rsschool-cv/tree/gh-pages)
+
+***
