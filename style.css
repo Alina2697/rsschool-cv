@@ -57,3 +57,14 @@ h1, h2 {
 section {
     margin-top: 20px;
 }
+
+/*=====Header=====*/
+
+.header {
+    padding: 30px 15px;
+    background: #80445f;
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 10px 5px 15px #909cac;
+}
