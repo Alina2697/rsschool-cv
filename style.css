@@ -189,3 +189,14 @@ section {
     font-size: 18px;
     text-transform: uppercase;
 }
+
+.projects {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.projects p {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
