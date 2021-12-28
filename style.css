@@ -232,3 +232,7 @@ section {
     font-size: 18px;
     margin-top: 10px;
 }
+
+.code {
+    text-align: left;
+}
