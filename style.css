@@ -200,3 +200,15 @@ section {
     font-size: 18px;
     font-weight: 400;
 }
+
+/*=====Right__side=====*/
+
+.right__side {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;  
+    text-align: center; 
+    margin-left: 20px; 
+}
