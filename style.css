@@ -183,3 +183,9 @@ section {
     align-items: center; 
     margin-bottom: 5px;
 }
+
+.skills ul li {
+    color: #3f3536;
+    font-size: 18px;
+    text-transform: uppercase;
+}
