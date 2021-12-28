@@ -117,3 +117,12 @@ section {
     align-items: center;
     min-height: 100vh;
 }
+
+.both__sides {
+    position: relative;
+    width: 100%;
+    max-width: 1170px;
+    min-height: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
