@@ -212,3 +212,14 @@ section {
     text-align: center; 
     margin-left: 20px; 
 }
+
+.courses li {
+    list-style-type: disc;
+    text-align: left;
+    line-height: 1.6em;
+    color: #80445f;
+}
+
+.courses li span {
+    color: #3f3536;
+}
