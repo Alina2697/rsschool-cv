@@ -236,3 +236,20 @@ section {
 .code {
     text-align: left;
 }
+
+/*=====Footer=====*/
+
+.footer {
+    background: #80445f;
+    height: 100px;
+    max-width: 1170px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 30px 60px;
+    width: 100%;
+    vertical-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 10px 5px 15px #909cac;
+}
