@@ -260,3 +260,12 @@ section {
     font-size: 30px;
     letter-spacing: 0px;
 }
+
+.logo {
+    transition: linear 0.8s;
+}
+
+.logo:hover {
+    box-shadow: 10px 5px 15px #909cac;
+    transition: linear 0.4s;
+}
