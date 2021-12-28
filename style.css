@@ -169,3 +169,17 @@ section {
     padding-bottom: 10px;
     border-bottom: 1px solid #80445f;
 }
+
+.contacts ul li {
+    list-style-type: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.contacts ul li span {
+    position: relative;
+    width: 85px;
+    display:inline-block; 
+    align-items: center; 
+    margin-bottom: 5px;
+}
