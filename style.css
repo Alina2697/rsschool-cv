@@ -96,3 +96,14 @@ section {
     opacity: 1;
     transition: linear 0.2s;
 }
+
+/*=====Header__Media=====*/
+
+@media (max-width: 810px) {
+    .list {
+        font-size: 18px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+}
