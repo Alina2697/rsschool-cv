@@ -223,3 +223,12 @@ section {
 .courses li span {
     color: #3f3536;
 }
+
+.languages .language__item {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #80445f;
+    opacity: 0.5;
+    font-size: 18px;
+    margin-top: 10px;
+}
