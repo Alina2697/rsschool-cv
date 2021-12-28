@@ -13,3 +13,47 @@ a {
 li {
    list-style-type: none;
 }
+
+/*=====General=====*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 300;
+    color: #3f3536;
+    background: linear-gradient(to right, #cec3c8, #f1e8ec);
+    background-attachment: fixed;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #80445f;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #80445f;
+    font-size: 20px;
+    opacity: 0.5;
+    margin-bottom: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
