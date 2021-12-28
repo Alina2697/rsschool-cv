@@ -138,3 +138,26 @@ section {
     align-items: center; 
     border-right: 1px solid #80445f;
 }
+
+.photo {
+    position: relative;
+    border-radius: 100%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    transition: linear 0.8s;
+    border: 2px double #80445f;
+}
+
+.photo:hover {
+    box-shadow: 2px 3px 10px #80445f;
+    transition: linear 0.4s;
+}
+
+.left__side .photo img {
+    width: auto;
+    height: 100%;
+    position: absolute;
+}
