@@ -253,3 +253,10 @@ section {
     justify-content: space-around;
     box-shadow: 10px 5px 15px #909cac;
 }
+
+.year {
+    color: #000;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0px;
+}
