@@ -161,3 +161,11 @@ section {
     height: 100%;
     position: absolute;
 }
+
+.name__position .position {
+    color: #80445f;
+    opacity: 0.5;
+    line-height: 1.2em;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #80445f;
+}
